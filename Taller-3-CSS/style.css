@@ -1,0 +1,26 @@
+.title {
+    color:black;
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+
+  }
+  
+  img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .cover {
+    object-fit: cover;
+  }
+  
+  .contain {
+    object-fit: contain;
+  }
